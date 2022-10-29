@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx8bda183922fb0661',
+  APP_ID: 'wxfc5ae922310fd323',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'ace77248eabb12f19c215eb0c79e9156',
+  APP_SECRET: '2ed0ffc6eaeec9bfe04209bdc7343d8d',
 
   PROVINCE: '浙江',
   CITY: '杭州',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小王馨',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oz7Od5xhqgyg9dZK1QmVVSqW-gDg',
+      id: 'oz7Od5z-jNi9z_NhTvOwhK4PWt2o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'fZ0ZjPxkxsaZXR9bsz2304Ql_ITmCMMmqBWc6RIEUzg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
